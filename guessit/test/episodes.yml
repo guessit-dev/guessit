@@ -4494,3 +4494,14 @@
   container: mp4
   screen_size: 1080p
   type: episode
+
+? Blue.Bloods.Crime.Scene.New.York.S05E09.Unter.Druck.German.DL.WS.DVDRip.x264-CDP
+: title: Blue Bloods Crime Scene New York
+  season: 5
+  episode: 9
+  episode_title: Unter Druck
+  language: [de, mul]
+  other: [Widescreen, Rip]
+  source: DVD
+  video_codec: H.264
+  release_group: CDP
