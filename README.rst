@@ -13,8 +13,8 @@ GuessIt
     :target: https://travis-ci.org/guessit-io/guessit
     :alt: Build Status
 
-.. image:: http://img.shields.io/coveralls/guessit-io/guessit/master.svg
-    :target: https://coveralls.io/github/guessit-io/guessit?branch=master
+.. image:: http://img.shields.io/coveralls/guessit-dev/guessit/master.svg
+    :target: https://coveralls.io/github/guessit-dev/guessit?branch=master
     :alt: Coveralls
 
 .. image:: https://img.shields.io/badge/Hu-Board-7965cc.svg
